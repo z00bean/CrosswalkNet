@@ -4,5 +4,14 @@ Crosswalk detection from satellite and aerial imagery is a key area of focus wit
 
 ![Boston example result](images/Crosswalk_net-Boston.jpg)
 
+![Output1](images/output1.jpg)
+
+![Output2](images/output2.jpg)
+
+![Output3](images/output3.jpg)
+
+![Soft-CBAM](images/soft-cbam.jpg)
+
+![Metrics](images/results.jpg)
 
 ![Model generalization](images/CrosswalkNet-Model_generalization.jpg)
